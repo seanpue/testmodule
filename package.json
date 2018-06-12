@@ -1,0 +1,22 @@
+{
+  "name": "testmodule",
+  "version": "0.1.0",
+  "description": "my first node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanpue/testmodule.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "“A. <a@seanpue.com> (http://seanpue.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanpue/testmodule/issues"
+  },
+  "homepage": "https://github.com/seanpue/testmodule#readme"
+}
